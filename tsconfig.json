@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "ESNext",
+        "useDefineForClassFields": true,
+        "moduleResolution": "Bundler",
+        "allowImportingTsExtensions": true,
+        "esModuleInterop": true,
+        "strict": true,
+        "lib": [
+            "ESNext",
+            "DOM",
+            "DOM.Iterable"
+        ],
+        "skipLibCheck": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noEmit": true
+    }
+}

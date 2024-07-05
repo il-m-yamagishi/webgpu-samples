@@ -1,0 +1,8 @@
+{
+    "name": "webgpu-samples-example01",
+    "version": "0.0.0",
+    "type": "module",
+    "devDependencies": {
+        "vite": "^5.3.3"
+    }
+}
