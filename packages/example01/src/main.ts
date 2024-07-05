@@ -1,5 +1,6 @@
 /**
  * @link https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API
+ * @link https://github.com/gpuweb/types/
  */
 async function main() {
 	if (!navigator.gpu) {
